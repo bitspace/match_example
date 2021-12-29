@@ -1,3 +1,3 @@
 # Learning Rust
 
-## The `match` construct
+## The `match` control flow operator
